@@ -4,6 +4,7 @@ tem plataformas fixas, moveis e que possuen queda -acrescentar inimigo
 vc pega moedas pq e grandes que poderiam ser usadas para compra de skin
 
 Duvida: O jogo usa um tile continuo mais ele se move apenas quando vc pula
+provavel que o jogo add vel veertical no tile comforme colide com os objeto
 
 minha  versão
 personagem da golpes de espada para subir - acrescentar desgaste de arma
