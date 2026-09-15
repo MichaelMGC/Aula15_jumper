@@ -1,0 +1,11 @@
+Jogo estilo Jumper 
+o personagem pula toda vez que colide com objeto - acrescentar impulso
+tem plataformas fixas, moveis e que possuen queda -acrescentar inimigo
+vc pega moedas pq e grandes que poderiam ser usadas para compra de skin
+
+Duvida: O jogo usa um tile continuo mais ele se move apenas quando vc pula
+
+minha  versão
+personagem da golpes de espada para subir - acrescentar desgaste de arma
+tem inimigos fixos, que se moven e objetos
+vc pega moedas que podem ser usadas para compra de novas armas 
