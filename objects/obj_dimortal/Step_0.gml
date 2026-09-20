@@ -1,0 +1,1 @@
+vspeed=global.grav
