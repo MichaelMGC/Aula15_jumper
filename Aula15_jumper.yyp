@@ -36,6 +36,8 @@
     {"id":{"name":"Note1","path":"notes/Note1/Note1.yy",},},
     {"id":{"name":"obj_bloco","path":"objects/obj_bloco/obj_bloco.yy",},},
     {"id":{"name":"obj_boton","path":"objects/obj_boton/obj_boton.yy",},},
+    {"id":{"name":"obj_dbee","path":"objects/obj_dbee/obj_dbee.yy",},},
+    {"id":{"name":"obj_ddog","path":"objects/obj_ddog/obj_ddog.yy",},},
     {"id":{"name":"obj_dimortal","path":"objects/obj_dimortal/obj_dimortal.yy",},},
     {"id":{"name":"obj_hero","path":"objects/obj_hero/obj_hero.yy",},},
     {"id":{"name":"obj_inimigo","path":"objects/obj_inimigo/obj_inimigo.yy",},},

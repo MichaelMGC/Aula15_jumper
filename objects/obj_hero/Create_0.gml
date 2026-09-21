@@ -9,8 +9,12 @@ controle_hero = function (){
 	var _rage = instance_place(x,y,obj_inimigo)
 	if (_rage){
 		image_speed=1
+		vspeed=-3.5
+		global.grav=4
+	}
+	if (_golpe){
+		image_speed=1
 		vspeed=-5
-		global.grav=2
 	}
 	if vspeed>0{
 		global.grav=0
