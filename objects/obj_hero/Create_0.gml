@@ -10,7 +10,7 @@ controle_hero = function (){
 	if (_rage){
 		image_speed=1
 		vspeed=-3.5
-		global.grav=4
+		global.grav=4.5
 	}
 	if (_golpe){
 		image_speed=1
