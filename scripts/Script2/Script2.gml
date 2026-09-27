@@ -1,7 +1,10 @@
 #region globais
 global.grav = 0;
 global.money= 0;
-global.hero=1;
+global.hero=0;
+global.music=true
+global.warrior=false
+global.sword=false
 #region
 #region funções
 // colocando variação nos sons 

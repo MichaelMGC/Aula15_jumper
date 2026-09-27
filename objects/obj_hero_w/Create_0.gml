@@ -1,7 +1,7 @@
 vel=3
 fg=.05
 audio_stop_all()
-audio_play_sound(snd_music,1,1)
+if (global.music)audio_play_sound(snd_music,1,1)
 controle_hero = function (){
 	var _left = keyboard_check(vk_left) or keyboard_check(ord("A"))
 	var _right = keyboard_check(vk_right) or keyboard_check(ord("D"))

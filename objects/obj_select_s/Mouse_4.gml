@@ -1,0 +1,1 @@
+global.hero=1

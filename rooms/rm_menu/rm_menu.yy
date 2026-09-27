@@ -9,6 +9,7 @@
     {"name":"inst_19C34C8D","path":"rooms/rm_menu/rm_menu.yy",},
     {"name":"inst_23860777","path":"rooms/rm_menu/rm_menu.yy",},
     {"name":"inst_5D4DFAE0","path":"rooms/rm_menu/rm_menu.yy",},
+    {"name":"inst_7C0438CA","path":"rooms/rm_menu/rm_menu.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -22,6 +23,7 @@
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_boton","path":"objects/obj_boton/obj_boton.yy",},"propertyId":{"name":"texto","path":"objects/obj_boton/obj_boton.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"SAIR",},
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_boton","path":"objects/obj_boton/obj_boton.yy",},"propertyId":{"name":"destino","path":"objects/obj_boton/obj_boton.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"2",},
           ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":96.0,"y":224.0,},
+        {"$GMRInstance":"v4","%Name":"inst_7C0438CA","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_7C0438CA","objectId":{"name":"obj_boton_music","path":"objects/obj_boton_music/obj_boton_music.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":96.0,"y":288.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":10.0,"animationSpeedType":0,"colour":4294967295,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],

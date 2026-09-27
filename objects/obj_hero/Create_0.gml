@@ -2,7 +2,7 @@ image_index=0;
 image_speed=0;
 vel=3
 audio_stop_all()
-audio_play_sound(snd_music,1,1)
+if (global.music)audio_play_sound(snd_music,1,1)
 controle_hero = function (){
 	var _left = keyboard_check(vk_left) or keyboard_check(ord("A"))
 	var _right = keyboard_check(vk_right) or keyboard_check(ord("D"))
@@ -15,6 +15,7 @@ controle_hero = function (){
 		audio_stop_sound(snd_slash)
 		sound_efect(snd_slash,.2)
 	}
+	/*
 	if (_golpe){
 		image_speed=1
 		vspeed=-3
@@ -22,6 +23,7 @@ controle_hero = function (){
 		audio_stop_sound(snd_slash)
 		sound_efect(snd_slash,.2)
 	}
+	*/
 	if vspeed>0{
 		global.grav=0
 	}

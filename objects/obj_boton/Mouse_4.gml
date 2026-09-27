@@ -4,4 +4,6 @@ if (destino==0){
 	room_goto(rm_loja)
 }else if (destino==2){
 	game_end()
+}else if (destino==3){
+	room_goto(rm_menu)
 }
